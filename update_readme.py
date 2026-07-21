@@ -64,8 +64,9 @@ Welcome to my competitive programming repository! This repository automatically 
 
 ## Profiles & Stats
 * **Total Solved in Repo:** {total_solved}
-* **Codeforces:** [YourHandle](https://codeforces.com/profile/YourHandle)
-* **CSES:** [YourHandle](https://cses.fi/user/YourID)
+* **Codeforces:** [khusanjonb](https://codeforces.com/profile/khusanjonb)
+* **CSES:** [Khusanjon](https://cses.fi/user/384721)
+* **HackerRank:** [kbobokhojaev](https://www.hackerrank.com/profile/kbobokhojaev)
 
 ---
 
