@@ -90,7 +90,7 @@ Welcome to my competitive programming repository! This repository automatically 
         
         for p in sorted(problems, key=lambda x: x["problem"]):
             link_str = f"[{p['problem']}]({p['link']})" if p['link'] != "-" else p['problem']
-            file_link = f"[`{os.path.basename(p['path'])}`](./{p['path']})"
+            file_link = f"[`{os.path.basename(p['path'])}`]({p['path']})"
             md_content += f"| {link_str} | {p['topics']} | {p['time']} | {p['space']} | {file_link} |\n"
 
     md_content += "\n---\n*Updated automatically via `update_readme.py`*\n"
