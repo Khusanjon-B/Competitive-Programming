@@ -15,13 +15,20 @@ HEADER_REGEX = {
 
 def parse_cpp_file(filepath):
     """Extracts header comments from a C++ file."""
+    # Normalize path to strip extra '.' or duplicate slashes
+    clean_path = os.path.normpath(filepath).replace("\\", "/")
+    
+    # If the path starts with './', trim it so we don't duplicate it later
+    if clean_path.startswith("./"):
+        clean_path = clean_path[2:]
+
     info = {
         "problem": os.path.basename(os.path.dirname(filepath)),
         "link": "-",
         "topics": "General",
         "time": "-",
         "space": "-",
-        "path": filepath.replace("\\", "/")
+        "path": clean_path
     }
     
     try:
