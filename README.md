@@ -36,10 +36,10 @@ Welcome to my competitive programming repository! This repository automatically 
 | :--- | :--- | :--- | :--- | :--- |
 | [CSES - Increasing Array](https://cses.fi/problemset/task/1094) | Greedy, Implementation | O(N) | O(1) | [`main.cpp`](./CSES/IncreasingArray/main.cpp) |
 | [CSES - Missing Number](https://cses.fi/problemset/task/1083) | Math, Implementation, Bit Manipulation | O(N) | O(1) | [`main.cpp`](./CSES/MissingNumber/main.cpp) |
+| [CSES - Number Spiral](https://cses.fi/problemset/task/1071) | Math, Implementation | O(1) per test case | O(1) | [`main.cpp`](./CSES/NumberSpiral/main.cpp) |
 | [CSES - Permutations](https://cses.fi/problemset/task/1070) | Constructive Algorithms, Implementation | O(N) | O(1) | [`main.cpp`](./CSES/Permutations/main.cpp) |
 | [CSES - Repetitions](https://cses.fi/problemset/task/1069) | Strings, Two Pointers, Implementation | O(N) | O(1) | [`main.cpp`](./CSES/Repetitions/main.cpp) |
 | [CSES - Weird Algorithm](https://cses.fi/problemset/task/1068) | Introductory Problems, Simulation, Collatz Conjecture | Dependent on Collatz sequence length | O(1) | [`main.cpp`](./CSES/WeirdAlgorithm/main.cpp) |
-| NumberSpiral | General | - | - | [`main.cpp`](./CSES/NumberSpiral/main.cpp) |
 
 ---
 *Updated automatically via `update_readme.py`*
