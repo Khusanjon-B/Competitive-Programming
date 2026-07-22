@@ -5,7 +5,7 @@ Welcome to my competitive programming repository! This repository automatically 
 ---
 
 ## Profiles & Stats
-* **Total Solved in Repo:** 22
+* **Total Solved in Repo:** 23
 * **Codeforces:** [khusanjonb](https://codeforces.com/profile/khusanjonb)
 * **CSES:** [Khusanjon](https://cses.fi/user/384721)
 * **HackerRank:** [kbobokhojaev](https://www.hackerrank.com/profile/kbobokhojaev)
@@ -31,10 +31,11 @@ Welcome to my competitive programming repository! This repository automatically 
 | [Codeforces 58A - Chatroom](https://codeforces.com/problemset/problem/58/A) | Strings, Two Pointers, Greedy | O(N) where N is input string length | O(1) | [`main.cpp`](./CodeForces/58A%20ChatRoom/main.cpp) |
 | [Codeforces 69A - Young Physicist](https://codeforces.com/problemset/problem/69/A) | Math, Implementation, Vector Geometry | O(N) | O(1) | [`main.cpp`](./CodeForces/69A%20YoungPhysicist/main.cpp) |
 
-### CSES (10)
+### CSES (11)
 | Problem Name | Topics | Time | Space | Solution |
 | :--- | :--- | :--- | :--- | :--- |
 | [CSES - Bit Strings](https://cses.fi/problemset/task/1617) | Math, Modular Arithmetic | O(N) | O(1) | [`main.cpp`](./CSES/BitStrings/main.cpp) |
+| [CSES - Coin Piles](https://cses.fi/problemset/task/1754) | Math, Invariants | O(1) per testcase | - | [`main.cpp`](./CSES/CoinPiles/main.cpp) |
 | [CSES - Increasing Array](https://cses.fi/problemset/task/1094) | Greedy, Implementation | O(N) | O(1) | [`main.cpp`](./CSES/IncreasingArray/main.cpp) |
 | [CSES - Missing Number](https://cses.fi/problemset/task/1083) | Math, Implementation, Bit Manipulation | O(N) | O(1) | [`main.cpp`](./CSES/MissingNumber/main.cpp) |
 | [CSES - Number Spiral](https://cses.fi/problemset/task/1071) | Math, Implementation | O(1) per test case | O(1) | [`main.cpp`](./CSES/NumberSpiral/main.cpp) |
