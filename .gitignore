@@ -14,8 +14,8 @@ plan.md
 *.app
 
 # Local testing input/output data (optional: remove if you want to track sample inputs)
-data.in
-data.out
+data*.in
+data*.out
 output.txt
 
 # Python cache / virtual environments
