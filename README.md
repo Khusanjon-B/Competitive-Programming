@@ -5,7 +5,7 @@ Welcome to my competitive programming repository! This repository automatically 
 ---
 
 ## Profiles & Stats
-* **Total Solved in Repo:** 13
+* **Total Solved in Repo:** 18
 * **Codeforces:** [khusanjonb](https://codeforces.com/profile/khusanjonb)
 * **CSES:** [Khusanjon](https://cses.fi/user/384721)
 * **HackerRank:** [kbobokhojaev](https://www.hackerrank.com/profile/kbobokhojaev)
@@ -31,10 +31,15 @@ Welcome to my competitive programming repository! This repository automatically 
 | [Codeforces 58A - Chatroom](https://codeforces.com/problemset/problem/58/A) | Strings, Two Pointers, Greedy | O(N) where N is input string length | O(1) | [`main.cpp`](./CodeForces/58A%20ChatRoom/main.cpp) |
 | [Codeforces 69A - Young Physicist](https://codeforces.com/problemset/problem/69/A) | Math, Implementation, Vector Geometry | O(N) | O(1) | [`main.cpp`](./CodeForces/69A%20YoungPhysicist/main.cpp) |
 
-### CSES (1)
+### CSES (6)
 | Problem Name | Topics | Time | Space | Solution |
 | :--- | :--- | :--- | :--- | :--- |
+| [CSES - Missing Number](https://cses.fi/problemset/task/1083) | Math, Implementation, Bit Manipulation | O(N) | O(1) | [`main.cpp`](./CSES/MissingNumber/main.cpp) |
+| [CSES - Permutations](https://cses.fi/problemset/task/1070) | Constructive Algorithms, Implementation | O(N) | O(1) | [`main.cpp`](./CSES/Permutations/main.cpp) |
+| [CSES - Repetitions](https://cses.fi/problemset/task/1069) | Strings, Two Pointers, Implementation | O(N) | O(1) | [`main.cpp`](./CSES/Repetitions/main.cpp) |
 | [CSES - Weird Algorithm](https://cses.fi/problemset/task/1068) | Introductory Problems, Simulation, Collatz Conjecture | Dependent on Collatz sequence length | O(1) | [`main.cpp`](./CSES/WeirdAlgorithm/main.cpp) |
+| IncreasingArray | General | - | - | [`main.cpp`](./CSES/IncreasingArray/main.cpp) |
+| NumberSpiral | General | - | - | [`main.cpp`](./CSES/NumberSpiral/main.cpp) |
 
 ---
 *Updated automatically via `update_readme.py`*
