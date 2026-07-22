@@ -1,3 +1,9 @@
+// Problem: CSES - Bit Strings
+// Link: https://cses.fi/problemset/task/1617
+// Topics: Math, Modular Arithmetic
+// Time Complexity: O(N)
+// Space Complexity: O(1)
+
 #include <iostream>
 
 using namespace std;
