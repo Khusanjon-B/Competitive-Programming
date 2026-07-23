@@ -5,7 +5,7 @@ Welcome to my competitive programming repository! This repository automatically 
 ---
 
 ## Profiles & Stats
-* **Total Solved in Repo:** 29
+* **Total Solved in Repo:** 30
 * **Codeforces:** [khusanjonb](https://codeforces.com/profile/khusanjonb)
 * **CSES:** [Khusanjon](https://cses.fi/user/384721)
 * **HackerRank:** [kbobokhojaev](https://www.hackerrank.com/profile/kbobokhojaev)
@@ -50,11 +50,12 @@ Welcome to my competitive programming repository! This repository automatically 
 | [CSES - Two Sets](https://cses.fi/problemset/task/1092) | Constructive Algorithms, Greedy, Math | O(N) | O(N) | [`main.cpp`](./CSES/TwoSets/main.cpp) |
 | [CSES - Weird Algorithm](https://cses.fi/problemset/task/1068) | Introductory Problems, Simulation, Collatz Conjecture | Dependent on Collatz sequence length | O(1) | [`main.cpp`](./CSES/WeirdAlgorithm/main.cpp) |
 
-### USACO (2)
+### USACO (3)
 | Problem Name | Topics | Time | Space | Solution |
 | :--- | :--- | :--- | :--- | :--- |
 | [USACO 2016 January Contest, Bronze - Problem 1. Promotion Counting](http://usaco.org/index.php?page=viewproblem2&cpid=591) | Math, Flow / Conservation Logic | O(1) | O(1) | [`main.cpp`](./USACO/Bronze/PromotionCounting/main.cpp) |
 | [USACO 2018 February Contest, Bronze - Problem 1. Teleportation](http://www.usaco.org/index.php?page=viewproblem2&cpid=807) | Math, Greedy, Geometry (1D) | O(1) | O(1) | [`main.cpp`](./USACO/Bronze/Teleportation/main.cpp) |
+| [USACO 2020 December Contest, Bronze - Problem 1. Do You Know Your ABCs?](http://www.usaco.org/index.page?page=viewproblem2&cpid=1059) | Math, Sorting, Greedy | O(1) | O(1) | [`main.cpp`](./USACO/Bronze/DoYouKnowYourABCs/main.cpp) |
 
 ---
 *Updated automatically via `update_readme.py`*
