@@ -8,6 +8,7 @@ plan.md
 
 # C++ Executables and Compiled Files
 *.out
+*.in
 *.exe
 *.o
 *.obj
