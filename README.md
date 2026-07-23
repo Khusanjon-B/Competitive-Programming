@@ -5,7 +5,7 @@ Welcome to my competitive programming repository! This repository automatically 
 ---
 
 ## Profiles & Stats
-* **Total Solved in Repo:** 23
+* **Total Solved in Repo:** 24
 * **Codeforces:** [khusanjonb](https://codeforces.com/profile/khusanjonb)
 * **CSES:** [Khusanjon](https://cses.fi/user/384721)
 * **HackerRank:** [kbobokhojaev](https://www.hackerrank.com/profile/kbobokhojaev)
@@ -31,7 +31,7 @@ Welcome to my competitive programming repository! This repository automatically 
 | [Codeforces 58A - Chatroom](https://codeforces.com/problemset/problem/58/A) | Strings, Two Pointers, Greedy | O(N) where N is input string length | O(1) | [`main.cpp`](./CodeForces/58A%20ChatRoom/main.cpp) |
 | [Codeforces 69A - Young Physicist](https://codeforces.com/problemset/problem/69/A) | Math, Implementation, Vector Geometry | O(N) | O(1) | [`main.cpp`](./CodeForces/69A%20YoungPhysicist/main.cpp) |
 
-### CSES (11)
+### CSES (12)
 | Problem Name | Topics | Time | Space | Solution |
 | :--- | :--- | :--- | :--- | :--- |
 | [CSES - Bit Strings](https://cses.fi/problemset/task/1617) | Math, Modular Arithmetic | O(N) | O(1) | [`main.cpp`](./CSES/BitStrings/main.cpp) |
@@ -39,6 +39,7 @@ Welcome to my competitive programming repository! This repository automatically 
 | [CSES - Increasing Array](https://cses.fi/problemset/task/1094) | Greedy, Implementation | O(N) | O(1) | [`main.cpp`](./CSES/IncreasingArray/main.cpp) |
 | [CSES - Missing Number](https://cses.fi/problemset/task/1083) | Math, Implementation, Bit Manipulation | O(N) | O(1) | [`main.cpp`](./CSES/MissingNumber/main.cpp) |
 | [CSES - Number Spiral](https://cses.fi/problemset/task/1071) | Math, Implementation | O(1) per test case | O(1) | [`main.cpp`](./CSES/NumberSpiral/main.cpp) |
+| [CSES - Palindrome Reorder](https://cses.fi/problemset/task/1755) | Strings, Greedy, Frequency Counting | O(N) | O(N) | [`main.cpp`](./CSES/PalindromeReorder/main.cpp) |
 | [CSES - Permutations](https://cses.fi/problemset/task/1070) | Constructive Algorithms, Implementation | O(N) | O(1) | [`main.cpp`](./CSES/Permutations/main.cpp) |
 | [CSES - Repetitions](https://cses.fi/problemset/task/1069) | Strings, Two Pointers, Implementation | O(N) | O(1) | [`main.cpp`](./CSES/Repetitions/main.cpp) |
 | [CSES - Trailing Zeros](https://cses.fi/problemset/task/1618) | Math, Number Theory | O(log_5(N)) | O(1) | [`main.cpp`](./CSES/TrailingZeros/main.cpp) |
