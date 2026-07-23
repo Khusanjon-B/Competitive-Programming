@@ -1,3 +1,9 @@
+// Problem: USACO 2020 January Contest, Bronze - Problem 1. Word Processor
+// Link: http://www.usaco.org/index.php?page=viewproblem2&cpid=987
+// Topics: Simulation, Strings, Implementation
+// Time Complexity: O(N)
+// Space Complexity: O(1)
+
 #include <iostream>
 #include <string>
 #include <fstream>

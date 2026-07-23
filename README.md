@@ -56,7 +56,7 @@ Welcome to my competitive programming repository! This repository automatically 
 | [USACO 2016 January Contest, Bronze - Problem 1. Promotion Counting](http://usaco.org/index.php?page=viewproblem2&cpid=591) | Math, Flow / Conservation Logic | O(1) | O(1) | [`main.cpp`](./USACO/Bronze/PromotionCounting/main.cpp) |
 | [USACO 2018 February Contest, Bronze - Problem 1. Teleportation](http://www.usaco.org/index.php?page=viewproblem2&cpid=807) | Math, Greedy, Geometry (1D) | O(1) | O(1) | [`main.cpp`](./USACO/Bronze/Teleportation/main.cpp) |
 | [USACO 2020 December Contest, Bronze - Problem 1. Do You Know Your ABCs?](http://www.usaco.org/index.page?page=viewproblem2&cpid=1059) | Math, Sorting, Greedy | O(1) | O(1) | [`main.cpp`](./USACO/Bronze/DoYouKnowYourABCs/main.cpp) |
-| WordProcessor | General | - | - | [`main.cpp`](./USACO/Bronze/WordProcessor/main.cpp) |
+| [USACO 2020 January Contest, Bronze - Problem 1. Word Processor](http://www.usaco.org/index.php?page=viewproblem2&cpid=987) | Simulation, Strings, Implementation | O(N) | O(1) | [`main.cpp`](./USACO/Bronze/WordProcessor/main.cpp) |
 
 ---
 *Updated automatically via `update_readme.py`*
