@@ -5,7 +5,7 @@ Welcome to my competitive programming repository! This repository automatically 
 ---
 
 ## Profiles & Stats
-* **Total Solved in Repo:** 26
+* **Total Solved in Repo:** 27
 * **Codeforces:** [khusanjonb](https://codeforces.com/profile/khusanjonb)
 * **CSES:** [Khusanjon](https://cses.fi/user/384721)
 * **HackerRank:** [kbobokhojaev](https://www.hackerrank.com/profile/kbobokhojaev)
@@ -15,7 +15,7 @@ Welcome to my competitive programming repository! This repository automatically 
 
 ## Solved Problems Index
 
-### CodeForces (13)
+### CodeForces (14)
 | Problem Name | Topics | Time | Space | Solution |
 | :--- | :--- | :--- | :--- | :--- |
 | [Codeforces 118A - String Task](https://codeforces.com/problemset/problem/118/A) | Strings, Implementation | O(N) | O(N) | [`main.cpp`](./CodeForces/118A%20StringTask/main.cpp) |
@@ -26,6 +26,7 @@ Welcome to my competitive programming repository! This repository automatically 
 | [Codeforces 2171A - Legs](https://codeforces.com/problemset/problem/2171/A) | Math, Linear Equations | O(S) per query | O(1) | [`main.cpp`](./CodeForces/2171A%20FarmLegs/main.cpp) |
 | [Codeforces 2172A - Score Variance Check](https://codeforces.com/problemset/problem/2172/A) | Implementation, Vectors | O(1) | O(1) | [`main.cpp`](./CodeForces/2172A%20ASCIIArtContest/main.cpp) |
 | [Codeforces 230A - Dragons](https://codeforces.com/problemset/problem/230/A) | Greedy, Sorting, Data Structures (Map) | O(N log N) | O(N) | [`main.cpp`](./CodeForces/230A%20Dragons/main.cpp) |
+| [Codeforces 231A - Team](https://codeforces.com/problemset/problem/231/A) | Implementation, Counting, Elementary Logic | O(n) | O(1) | [`main.cpp`](./CodeForces/143A%20Team/main.cpp) |
 | [Codeforces 339B - Xenia and Ringroad](https://codeforces.com/problemset/problem/339/B) | Math, Implementation | O(M) | O(1) | [`main.cpp`](./CodeForces/339B%20XeniaAndRingroad/main.cpp) |
 | [Codeforces 479A - Expression](https://codeforces.com/problemset/problem/479/A) | Math, Brute Force | O(1) | O(1) | [`main.cpp`](./CodeForces/479A%20Expression/main.cpp) |
 | [Codeforces 4A - Watermelon](https://codeforces.com/problemset/problem/4/A) | Math, Elementary Logic | O(1) | O(1) | [`main.cpp`](./CodeForces/4A%20Watermelon/main.cpp) |
