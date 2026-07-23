@@ -5,7 +5,7 @@ Welcome to my competitive programming repository! This repository automatically 
 ---
 
 ## Profiles & Stats
-* **Total Solved in Repo:** 24
+* **Total Solved in Repo:** 25
 * **Codeforces:** [khusanjonb](https://codeforces.com/profile/khusanjonb)
 * **CSES:** [Khusanjon](https://cses.fi/user/384721)
 * **HackerRank:** [kbobokhojaev](https://www.hackerrank.com/profile/kbobokhojaev)
@@ -46,6 +46,11 @@ Welcome to my competitive programming repository! This repository automatically 
 | [CSES - Two Knights](https://cses.fi/problemset/task/1072) | Math, Combinatorics, Geometry | O(N) | O(1) | [`main.cpp`](./CSES/TwoKnights/main.cpp) |
 | [CSES - Two Sets](https://cses.fi/problemset/task/1092) | Constructive Algorithms, Greedy, Math | O(N) | O(N) | [`main.cpp`](./CSES/TwoSets/main.cpp) |
 | [CSES - Weird Algorithm](https://cses.fi/problemset/task/1068) | Introductory Problems, Simulation, Collatz Conjecture | Dependent on Collatz sequence length | O(1) | [`main.cpp`](./CSES/WeirdAlgorithm/main.cpp) |
+
+### USACO (1)
+| Problem Name | Topics | Time | Space | Solution |
+| :--- | :--- | :--- | :--- | :--- |
+| Teleportation | General | - | - | [`main.cpp`](./USACO/Bronze/Teleportation/main.cpp) |
 
 ---
 *Updated automatically via `update_readme.py`*
