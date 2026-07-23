@@ -1,4 +1,4 @@
-// Problem: Codeforces 231A - Team
+// Problem: Codeforces A - Team
 // Link: https://codeforces.com/problemset/problem/231/A
 // Topics: Implementation, Counting, Elementary Logic
 // Time Complexity: O(n)
