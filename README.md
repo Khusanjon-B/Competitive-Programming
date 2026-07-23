@@ -50,7 +50,7 @@ Welcome to my competitive programming repository! This repository automatically 
 ### USACO (1)
 | Problem Name | Topics | Time | Space | Solution |
 | :--- | :--- | :--- | :--- | :--- |
-| Teleportation | General | - | - | [`main.cpp`](./USACO/Bronze/Teleportation/main.cpp) |
+| [USACO 2018 February Contest, Bronze - Problem 1. Teleportation](http://www.usaco.org/index.php?page=viewproblem2&cpid=807) | Math, Greedy, Geometry (1D) | O(1) | O(1) | [`main.cpp`](./USACO/Bronze/Teleportation/main.cpp) |
 
 ---
 *Updated automatically via `update_readme.py`*

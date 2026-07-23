@@ -1,3 +1,9 @@
+// Problem: USACO 2018 February Contest, Bronze - Problem 1. Teleportation
+// Link: http://www.usaco.org/index.php?page=viewproblem2&cpid=807
+// Topics: Math, Greedy, Geometry (1D)
+// Time Complexity: O(1)
+// Space Complexity: O(1)
+
 #include <iostream>
 #include <fstream> 
 #include <cmath>
