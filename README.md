@@ -53,8 +53,8 @@ Welcome to my competitive programming repository! This repository automatically 
 ### USACO (7)
 | Problem Name | Topics | Time | Space | Solution |
 | :--- | :--- | :--- | :--- | :--- |
-| MixingMilk | General | - | - | [`main.cpp`](./USACO/Bronze/MixingMilk/main.cpp) |
 | [USACO 2016 January Contest, Bronze - Problem 1. Promotion Counting](http://usaco.org/index.php?page=viewproblem2&cpid=591) | Math, Flow / Conservation Logic | O(1) | O(1) | [`main.cpp`](./USACO/Bronze/PromotionCounting/main.cpp) |
+| [USACO 2018 December Contest, Bronze - Problem 1. Mixing Milk](http://www.usaco.org/index.php?page=viewproblem2&cpid=855) | Simulation, Arrays / Pairs | O(1) | O(1) | [`main.cpp`](./USACO/Bronze/MixingMilk/main.cpp) |
 | [USACO 2018 February Contest, Bronze - Problem 1. Teleportation](http://www.usaco.org/index.php?page=viewproblem2&cpid=807) | Math, Greedy, Geometry (1D) | O(1) | O(1) | [`main.cpp`](./USACO/Bronze/Teleportation/main.cpp) |
 | [USACO 2019 January Contest, Bronze - Problem 1. Shell Game](http://www.usaco.org/index.php?page=viewproblem2&cpid=891) | Simulation, Arrays | O(N) | O(1) | [`main.cpp`](./USACO/Bronze/ShellGame/main.cpp) |
 | [USACO 2019 Open Contest, Bronze - Problem 1. Bucket Brigade](http://www.usaco.org/index.php?page=viewproblem2&cpid=938) | Geometry, Grid, Manhattan Distance | O(1) - 10x10 Grid | O(1) | [`main.cpp`](./USACO/Bronze/BucketBrigade/main.cpp) |
