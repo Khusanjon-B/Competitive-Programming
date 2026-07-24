@@ -1,3 +1,9 @@
+// Problem: USACO 2018 December Contest, Bronze - Problem 1. Mixing Milk
+// Link: http://www.usaco.org/index.php?page=viewproblem2&cpid=855
+// Topics: Simulation, Arrays / Pairs
+// Time Complexity: O(1)
+// Space Complexity: O(1)
+
 #include <iostream>
 #include <fstream>
 
