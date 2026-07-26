@@ -1,7 +1,7 @@
 // Problem: USACO 2017 US Open Contest, Bronze - Problem 1. The Lost Cow
 // Link: http://www.usaco.org/index.php?page=viewproblem2&cpid=735
 // Topics: Simulation, Number Line Walk
-// Time Complexity: O(log |X - Y|)
+// Time Complexity: O(log|X - Y|)
 // Space Complexity: O(1)
 
 #include <iostream>
