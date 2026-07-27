@@ -5,7 +5,7 @@ Welcome to my competitive programming repository! This repository automatically 
 ---
 
 ## Profiles & Stats
-* **Total Solved in Repo:** 40
+* **Total Solved in Repo:** 41
 * **Codeforces:** [khusanjonb](https://codeforces.com/profile/khusanjonb)
 * **CSES:** [Khusanjon](https://cses.fi/user/384721)
 * **HackerRank:** [kbobokhojaev](https://www.hackerrank.com/profile/kbobokhojaev)
@@ -51,11 +51,12 @@ Welcome to my competitive programming repository! This repository automatically 
 | [CSES - Two Sets](https://cses.fi/problemset/task/1092) | Constructive Algorithms, Greedy, Math | O(N) | O(N) | [`main.cpp`](./CSES/TwoSets/main.cpp) |
 | [CSES - Weird Algorithm](https://cses.fi/problemset/task/1068) | Introductory Problems, Simulation, Collatz Conjecture | Dependent on Collatz sequence length | O(1) | [`main.cpp`](./CSES/WeirdAlgorithm/main.cpp) |
 
-### USACO (12)
+### USACO (13)
 | Problem Name | Topics | Time | Space | Solution |
 | :--- | :--- | :--- | :--- | :--- |
 | [USACO 2015 December Contest, Bronze - Problem 2. Speeding Ticket](http://www.usaco.org/index.php?page=viewproblem2&cpid=568) | Simulation, Array Flattening / Unrolling | O(N + M) or O(1) since total miles = 100 | O(1) - fixed 100-element array | [`main.cpp`](./USACO/Bronze/SpeedingTicket/main.cpp) |
 | [USACO 2016 December Contest, Bronze - Problem 3. The Cow-Signal](http://www.usaco.org/index.php?page=viewproblem2&cpid=665) | Simulation, String Manipulation | O(M * N * K) | O(N * K) | [`main.cpp`](./USACO/Bronze/TheCow-Signal/main.cpp) |
+| [USACO 2016 February Contest, Bronze - Problem 1. Milk Pails](http://www.usaco.org/index.php?page=viewproblem1&cpid=615) | Complete Search / Brute Force | O(M / Y) -> At most ~1000 operations | O(1) | [`main.cpp`](./USACO/Bronze/MilkPails/main.cpp) |
 | [USACO 2016 January Contest, Bronze - Problem 1. Promotion Counting](http://usaco.org/index.php?page=viewproblem2&cpid=591) | Math, Flow / Conservation Logic | O(1) | O(1) | [`main.cpp`](./USACO/Bronze/PromotionCounting/main.cpp) |
 | [USACO 2017 December Contest, Bronze - Problem 2. The Bovine Shuffle](http://www.usaco.org/index.php?page=viewproblem2&cpid=760) | Simulation, Array Manipulation / Permutation Inversion | O(N) | O(N) | [`main.cpp`](./USACO/Bronze/TheBovineShuffle/main.cpp) |
 | [USACO 2017 US Open Contest, Bronze - Problem 1. The Lost Cow](http://www.usaco.org/index.php?page=viewproblem2&cpid=735) | Simulation, Number Line Walk | O(log(X-Y)) | O(1) | [`main.cpp`](./USACO/Bronze/LostCow/main.cpp) |
