@@ -5,7 +5,7 @@ Welcome to my competitive programming repository! This repository automatically 
 ---
 
 ## Profiles & Stats
-* **Total Solved in Repo:** 38
+* **Total Solved in Repo:** 39
 * **Codeforces:** [khusanjonb](https://codeforces.com/profile/khusanjonb)
 * **CSES:** [Khusanjon](https://cses.fi/user/384721)
 * **HackerRank:** [kbobokhojaev](https://www.hackerrank.com/profile/kbobokhojaev)
@@ -50,7 +50,7 @@ Welcome to my competitive programming repository! This repository automatically 
 | [CSES - Two Sets](https://cses.fi/problemset/task/1092) | Constructive Algorithms, Greedy, Math | O(N) | O(N) | [`main.cpp`](./CSES/TwoSets/main.cpp) |
 | [CSES - Weird Algorithm](https://cses.fi/problemset/task/1068) | Introductory Problems, Simulation, Collatz Conjecture | Dependent on Collatz sequence length | O(1) | [`main.cpp`](./CSES/WeirdAlgorithm/main.cpp) |
 
-### USACO (11)
+### USACO (12)
 | Problem Name | Topics | Time | Space | Solution |
 | :--- | :--- | :--- | :--- | :--- |
 | [USACO 2015 December Contest, Bronze - Problem 2. Speeding Ticket](http://www.usaco.org/index.php?page=viewproblem2&cpid=568) | Simulation, Array Flattening / Unrolling | O(N + M) or O(1) since total miles = 100 | O(1) - fixed 100-element array | [`main.cpp`](./USACO/Bronze/SpeedingTicket/main.cpp) |
@@ -59,6 +59,7 @@ Welcome to my competitive programming repository! This repository automatically 
 | [USACO 2017 December Contest, Bronze - Problem 2. The Bovine Shuffle](http://www.usaco.org/index.php?page=viewproblem2&cpid=760) | Simulation, Array Manipulation / Permutation Inversion | O(N) | O(N) | [`main.cpp`](./USACO/Bronze/TheBovineShuffle/main.cpp) |
 | [USACO 2017 US Open Contest, Bronze - Problem 1. The Lost Cow](http://www.usaco.org/index.php?page=viewproblem2&cpid=735) | Simulation, Number Line Walk | O(log(X-Y)) | O(1) | [`main.cpp`](./USACO/Bronze/LostCow/main.cpp) |
 | [USACO 2018 December Contest, Bronze - Problem 1. Mixing Milk](http://www.usaco.org/index.php?page=viewproblem2&cpid=855) | Simulation, Arrays / Pairs | O(1) | O(1) | [`main.cpp`](./USACO/Bronze/MixingMilk/main.cpp) |
+| [USACO 2018 December Contest, Bronze - Problem 2. The Bucket List](http://www.usaco.org/index.php?page=viewproblem2&cpid=856) | Simulation, Difference Array / Time Bucket Sweeping | O(N * Max_Time) -> O(100 * 1000) | O(Max_Time) | [`main.cpp`](./USACO/Bronze/TheBucketList/main.cpp) |
 | [USACO 2018 February Contest, Bronze - Problem 1. Teleportation](http://www.usaco.org/index.php?page=viewproblem2&cpid=807) | Math, Greedy, Geometry (1D) | O(1) | O(1) | [`main.cpp`](./USACO/Bronze/Teleportation/main.cpp) |
 | [USACO 2019 January Contest, Bronze - Problem 1. Shell Game](http://www.usaco.org/index.php?page=viewproblem2&cpid=891) | Simulation, Arrays | O(N) | O(1) | [`main.cpp`](./USACO/Bronze/ShellGame/main.cpp) |
 | [USACO 2019 Open Contest, Bronze - Problem 1. Bucket Brigade](http://www.usaco.org/index.php?page=viewproblem2&cpid=938) | Geometry, Grid, Manhattan Distance | O(1) - 10x10 Grid | O(1) | [`main.cpp`](./USACO/Bronze/BucketBrigade/main.cpp) |
