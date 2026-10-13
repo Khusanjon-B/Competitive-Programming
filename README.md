@@ -5,7 +5,7 @@ Welcome to my competitive programming repository! This repository automatically 
 ---
 
 ## Profiles & Stats
-* **Total Solved in Repo:** 42
+* **Total Solved in Repo:** 46
 * **Codeforces:** [khusanjonb](https://codeforces.com/profile/khusanjonb)
 * **CSES:** [Khusanjon](https://cses.fi/user/384721)
 * **HackerRank:** [kbobokhojaev](https://www.hackerrank.com/profile/kbobokhojaev)
@@ -15,7 +15,7 @@ Welcome to my competitive programming repository! This repository automatically 
 
 ## Solved Problems Index
 
-### CodeForces (16)
+### CodeForces (19)
 | Problem Name | Topics | Time | Space | Solution |
 | :--- | :--- | :--- | :--- | :--- |
 | [Codeforces 118A - String Task](https://codeforces.com/problemset/problem/118/A) | Strings, Implementation | O(N) | O(N) | [`main.cpp`](./CodeForces/118A%20StringTask/main.cpp) |
@@ -27,9 +27,12 @@ Welcome to my competitive programming repository! This repository automatically 
 | [Codeforces 2172A - Score Variance Check](https://codeforces.com/problemset/problem/2172/A) | Implementation, Vectors | O(1) | O(1) | [`main.cpp`](./CodeForces/2172A%20ASCIIArtContest/main.cpp) |
 | [Codeforces 230A - Dragons](https://codeforces.com/problemset/problem/230/A) | Greedy, Sorting, Data Structures (Map) | O(N log N) | O(N) | [`main.cpp`](./CodeForces/230A%20Dragons/main.cpp) |
 | [Codeforces 231A - Team](https://codeforces.com/problemset/problem/231/A) | Implementation, Counting, Elementary Logic | O(n) | O(1) | [`main.cpp`](./CodeForces/231A%20Team/main.cpp) |
+| [Codeforces 279B - Books](https://codeforces.com/problemset/problem/279/B) | Two Pointers, Sliding Window | O(n) | O(n) | [`main.cpp`](./CodeForces/279B%20Books/main.cpp) |
 | [Codeforces 339B - Xenia and Ringroad](https://codeforces.com/problemset/problem/339/B) | Math, Implementation | O(M) | O(1) | [`main.cpp`](./CodeForces/339B%20XeniaAndRingroad/main.cpp) |
 | [Codeforces 479A - Expression](https://codeforces.com/problemset/problem/479/A) | Math, Brute Force | O(1) | O(1) | [`main.cpp`](./CodeForces/479A%20Expression/main.cpp) |
 | [Codeforces 4A - Watermelon](https://codeforces.com/problemset/problem/4/A) | Math, Elementary Logic | O(1) | O(1) | [`main.cpp`](./CodeForces/4A%20Watermelon/main.cpp) |
+| [Codeforces 4C - Registration System](https://codeforces.com/problemset/problem/4/C) | Hashing, Hash Maps, Implementation | O(n * L) | O(n * L) | [`main.cpp`](./CodeForces/4C%20RegistrationSystem/main.cpp) |
+| [Codeforces 520B - Two Buttons](https://codeforces.com/problemset/problem/520/B) | Greedy, Math (reverse simulation); also solvable with BFS | O(log m) | O(1) | [`main.cpp`](./CodeForces/520B%20TwoButtons/main.cpp) |
 | [Codeforces 546A - Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | Math, Implementation | O(1) | O(1) | [`main.cpp`](./CodeForces/546A%20SoldierAndBananas/main.cpp) |
 | [Codeforces 58A - Chatroom](https://codeforces.com/problemset/problem/58/A) | Strings, Two Pointers, Greedy | O(N) where N is input string length | O(1) | [`main.cpp`](./CodeForces/58A%20ChatRoom/main.cpp) |
 | [Codeforces 69A - Young Physicist](https://codeforces.com/problemset/problem/69/A) | Math, Implementation, Vector Geometry | O(N) | O(1) | [`main.cpp`](./CodeForces/69A%20YoungPhysicist/main.cpp) |
@@ -51,9 +54,10 @@ Welcome to my competitive programming repository! This repository automatically 
 | [CSES - Two Sets](https://cses.fi/problemset/task/1092) | Constructive Algorithms, Greedy, Math | O(N) | O(N) | [`main.cpp`](./CSES/TwoSets/main.cpp) |
 | [CSES - Weird Algorithm](https://cses.fi/problemset/task/1068) | Introductory Problems, Simulation, Collatz Conjecture | Dependent on Collatz sequence length | O(1) | [`main.cpp`](./CSES/WeirdAlgorithm/main.cpp) |
 
-### USACO (14)
+### USACO (15)
 | Problem Name | Topics | Time | Space | Solution |
 | :--- | :--- | :--- | :--- | :--- |
+| BlockGame | General | - | - | [`main.cpp`](./USACO/Bronze/BlockGame/main.cpp) |
 | [USACO 2015 December Contest, Bronze - Problem 2. Speeding Ticket](http://www.usaco.org/index.php?page=viewproblem2&cpid=568) | Simulation, Array Flattening / Unrolling | O(N + M) or O(1) since total miles = 100 | O(1) - fixed 100-element array | [`main.cpp`](./USACO/Bronze/SpeedingTicket/main.cpp) |
 | [USACO 2016 December Contest, Bronze - Problem 3. The Cow-Signal](http://www.usaco.org/index.php?page=viewproblem2&cpid=665) | Simulation, String Manipulation | O(M * N * K) | O(N * K) | [`main.cpp`](./USACO/Bronze/TheCow-Signal/main.cpp) |
 | [USACO 2016 February Contest, Bronze - Problem 1. Milk Pails](http://www.usaco.org/index.php?page=viewproblem1&cpid=615) | Complete Search / Brute Force | O(M / Y) -> At most ~1000 operations | O(1) | [`main.cpp`](./USACO/Bronze/MilkPails/main.cpp) |
